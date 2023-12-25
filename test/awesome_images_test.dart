@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:awesome_images/awesome_images.dart';
+import 'package:awesome_images_shep/awesome_images_shep.dart';
 
 void main() {
   test('get image URL', () {

@@ -1,4 +1,4 @@
-import 'package:awesome_images/ImageViewScreen.dart';
+import 'package:awesome_images_shep/ImageViewScreen.dart';
 
 class AwesomeImage {
   final String imageUrl;

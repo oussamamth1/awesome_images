@@ -1,4 +1,4 @@
-import 'package:awesome_images/imageWidget.dart';
+import 'package:awesome_images_shep/imageWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:palette_generator/palette_generator.dart';
 

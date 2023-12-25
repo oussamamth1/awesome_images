@@ -14,5 +14,5 @@ To start using this package, add the following dependency to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  awesome_images: ^0.0.1
+  awesome_images_shep: ^0.0.1
 ```
